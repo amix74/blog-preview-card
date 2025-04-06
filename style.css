@@ -1,3 +1,17 @@
+:root {
+    --color-gray-950: #111;
+    --color-white: #fff;
+    --color-yellow: #f4d04e;
+    --color-gray-500: #6b6b6b;
+    --font-family: "Figtree", sans-serif;
+    --second-family: "Barlow", sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
 
 
 
