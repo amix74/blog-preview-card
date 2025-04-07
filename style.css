@@ -22,6 +22,7 @@
 
 body {
   background: var(--color-yellow);
+  height: 100vh;
 }
 
 .container {
@@ -90,7 +91,7 @@ body {
   color: var(--color-gray-950);
 }
 
-.title {
+.title a {
   font-family: var(--font-family);
   font-weight: 800;
   font-size: 20px;
@@ -100,7 +101,7 @@ body {
   transition: color 1s;
 }
 
-.title:hover {
+.title a:hover {
   color: var(--color-yellow);
   transition: color 0.1s;
 }
