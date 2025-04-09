@@ -1,23 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="025cc84e-b941-4587-ba21-6f9b682842ff" name="Changes" comment="added css">
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    <list default="true" id="4afb15bd-f1b5-4e5c-b0ef-ab82e6988fbc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/02.Blog preview card.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="CSS File" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,33 +28,26 @@
     "accountId": "2f5dbf39-ce02-420c-8582-46637da19f21"
   }
 }]]></component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 4
-}</component>
-  <component name="ProjectId" id="2vLtgbs4pfF4K3GZkOsv1NwDFg7" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2vUBwM43zQjlQFnuSCKsT1UWpBU" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/IT_ALL/STUDY/FrontendMentor/02.Blog preview card&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "F:/IT_ALL/STUDY/#FrontendMentor.io/02. blog-preview-card",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -71,65 +58,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="025cc84e-b941-4587-ba21-6f9b682842ff" name="Changes" comment="" />
-      <created>1743936294202</created>
+      <changelist id="4afb15bd-f1b5-4e5c-b0ef-ab82e6988fbc" name="Changes" comment="" />
+      <created>1744190009197</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1743936294202</updated>
-      <workItem from="1743936295957" duration="16433000" />
-      <workItem from="1743999846277" duration="6995000" />
-      <workItem from="1744013386698" duration="242000" />
-      <workItem from="1744015312746" duration="3134000" />
+      <updated>1744190009197</updated>
+      <workItem from="1744190010310" duration="137000" />
     </task>
-    <task id="LOCAL-00001" summary="Initial commit">
-      <option name="closed" value="true" />
-      <created>1743937405519</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1743937405519</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Initial commit">
-      <option name="closed" value="true" />
-      <created>1743937458601</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1743937458601</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Initial commit">
-      <option name="closed" value="true" />
-      <created>1743937533073</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1743937533073</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Initial commit">
-      <option name="closed" value="true" />
-      <created>1743937581384</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1743937581384</updated>
-    </task>
-    <task id="LOCAL-00005" summary="HTML layout">
-      <option name="closed" value="true" />
-      <created>1743939718158</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1743939718158</updated>
-    </task>
-    <task id="LOCAL-00006" summary="added css">
-      <option name="closed" value="true" />
-      <created>1744017968245</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1744017968245</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,11 +80,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial commit" />
-    <MESSAGE value="HTML layout" />
-    <MESSAGE value="added css" />
-    <option name="LAST_COMMIT_MESSAGE" value="added css" />
   </component>
 </project>

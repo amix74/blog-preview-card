@@ -137,7 +137,6 @@ body {
 
 }
 
-/*
 .attribution {
   position: absolute;
   bottom: 0;
@@ -152,7 +151,6 @@ body {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
-*/
 
 @media screen and (min-width: 768px) {
 
@@ -180,7 +178,7 @@ body {
     font-size: 14px;
   }
 
-  .title {
+  .title a {
     font-size: 24px;
   }
 
