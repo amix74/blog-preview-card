@@ -139,18 +139,6 @@ body {
 
 }
 
-.attribution {
-  width: 100%;
-  min-width: 300px;
-  text-align: center;
-  font-size: 11px;
-  padding: 15px 0;
-}
-
-.attribution a {
-  color: hsl(228, 45%, 44%);
-}
-
 @media screen and (min-width: 768px) {
 
   .card {
